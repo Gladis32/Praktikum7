@@ -262,24 +262,20 @@ Jika pengguna memilih:
 <br>3.  Panggil fungsi ubah().
 <br>4.  Panggil fungsi hapus().
 <br>5.  Panggil fungsi selesai().
-
 2. Fungsi: tambah():
 <br>Mengambil input pengguna untuk nama, NIM, dan nilai (tugas, uts, uas).
 Menghitung nilai total.
 <br>Menambahkan data ke daftar yang sesuai.
 <br>Menampilkan "Data Tersimpan."
 <br>Menunggu input pengguna untuk kembali ke menu.
-
 2. Fungsi: tampilkan():
 <br>Menampilkan data mahasiswa yang telah disimpan.
 <br>Menunggu input pengguna untuk kembali ke menu.
 <br>Fungsi: ubah():
-
 3. Mengambil input pengguna untuk memilih apakah akan mengedit data.
 <br>Jika 'B' atau 'b' dimasukkan, ambil input pengguna untuk indeks yang akan diubah.
 <br>Jika indeks valid, ambil input nama baru dan perbarui daftar s_nama.
 <br>Menunggu input pengguna untuk kembali ke menu.
-
 4. Fungsi: hapus():
 <br>Mengambil input pengguna untuk indeks yang akan dihapus.
 <br>Memeriksa apakah indeks valid. Jika valid, hapus data yang sesuai dari semua daftar.
